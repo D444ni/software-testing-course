@@ -19,7 +19,6 @@
 
 ### Short description (in your own words)
 
-Write 2–3 lines about what the method is supposed to do.
 The method receives a list of estimates of the form [dev. name, est. value] and
 identify the two extremes of a planning poker session (lowest estimate and highest estimate).
 
